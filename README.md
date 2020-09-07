@@ -1,1 +1,1 @@
-# brasil-covid19-analysis-python
+# brasil-covid19-analysis
